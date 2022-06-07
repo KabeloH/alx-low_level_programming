@@ -4,20 +4,19 @@
  * main - Entry point
  *
  * Return: Always 0 (Success)
- *
  */
 int main(void)
 {
 	char a;
 	int b;
-	long c;
-	long long d;
+	long int c;
+	long long int d;
 	float e;
 
-	printf("Size of char: %zu bytes\n", sizeof(a));
-	printf("Size of int: %zu bytes\n", sizeof(b));
-	printf("Size of long: %zu bytes\n", sizeof(c));
-	printf("Size of long long: %zu byte\n", sizeof(d));
-	printf("Size of float: %zu byte\n", sizeof(e));
-	return (0)
+	printf("Size of a char: %zu byte(s)\n", sizeof(a));
+	printf("Size of an int: %zu byte(s)\n", sizeof(b));
+	printf("Size of a long int: %zu byte(s)\n", sizeof(c));
+	printf("Size of a long long int: %zu byte(s)\n", )sizeof(d));
+	printf("Size of a float: %zu byte(s)\n", sizeof(e));
+	return (0);
 }
