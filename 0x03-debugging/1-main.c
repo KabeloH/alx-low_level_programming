@@ -17,7 +17,7 @@ int main(void)
         {
                 putchar(i);
         }
-
+        /* Increment of i missing */
         printf("Infinite loop avoided! \\o/\n");
  
         return (0);
