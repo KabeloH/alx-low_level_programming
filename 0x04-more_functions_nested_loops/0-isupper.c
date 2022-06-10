@@ -1,4 +1,3 @@
-#include <ctype.h>
 #include <stdio.h>
 /**
  *A function that checks for uppercase character.
