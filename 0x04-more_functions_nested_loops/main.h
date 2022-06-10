@@ -2,6 +2,6 @@
 #define MAIN_H
 
 #include <stdio.h>
-int _isupper(int a)
+int _isupper(int a);
 
 #endif /* MAIN_H */
