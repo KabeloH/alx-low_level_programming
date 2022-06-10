@@ -6,7 +6,7 @@
  */
 int _isupper(int a)
 {
-	if (isupper(ch))
+	if (isupper(a))
 	putchar('1');
 	else
 	putchar('0');
