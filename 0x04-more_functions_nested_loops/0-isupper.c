@@ -8,7 +8,7 @@
 int _isupper(int a)
 {
 	if (isupper(ch))
-	putchar(1);
+	putchar('1');
 	else
-	putchar(0);
+	putchar('0');
 }
