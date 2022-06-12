@@ -7,10 +7,9 @@
  * print _putchar and return 0
  */
  
-int main (void)
+int _putchar(void)
 {
-	_putchar();
-
+	write(1, "_putchar\n", 8);
 	return(0)
 
 }
