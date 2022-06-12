@@ -5,7 +5,6 @@
  */
 int _putchar(char a)
 {
-	char a = "_putchar\n"
-	write(1, a, 9);
-	return (0);
+	a = "_putchar\n";
+	return (write(1, a, 9));
 }
