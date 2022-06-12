@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <unistd.h>
 
 
@@ -17,3 +18,6 @@ int _putchar(char)
 	
 	return(0);
 }
+=======
+int _putchar(void);
+>>>>>>> e455c1833f84eb1b01043784b06dfba9e4c4f117
