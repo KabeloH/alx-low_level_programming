@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- * main - prints out _putchar
+ * main - prints out _putchar and a new line \n
  * return: 0 on success
  */
 int main(void)
