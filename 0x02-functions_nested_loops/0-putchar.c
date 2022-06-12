@@ -1,7 +1,7 @@
 #include <unistd.h>
 /*
- * main for entry point but void
- * print _putchar and return 0
+ * main - prints out _putchar
+ * return 0 on success
  */
 int main(void)
 {
